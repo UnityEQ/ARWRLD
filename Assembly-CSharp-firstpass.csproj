@@ -96,11 +96,11 @@
      <None Include="Assets\Plugins\iOS\UnityARKit\Shaders\MobileOcclusion.shader" />
      <None Include="Assets\Wrld\3rd Party Licenses\libs\poly2tri.txt" />
      <None Include="Assets\Wrld\3rd Party Licenses\libs\ANGLE.txt" />
-     <None Include="Assets\StreamingAssets\WrldResources\FrankBold50_A8_icons.fnt" />
      <None Include="Assets\Wrld\Version\v553.txt" />
      <None Include="Assets\Wrld\3rd Party Licenses\libs\libuv.txt" />
      <None Include="Assets\Wrld\3rd Party Licenses\libs\ASIHttpRequest.txt" />
      <None Include="Assets\Wrld\3rd Party Licenses\libs\sqlite3.txt" />
+     <None Include="Assets\StreamingAssets\WrldResources\Resources\FrankBold50_A8_icons.fnt" />
      <None Include="Assets\Wrld\3rd Party Licenses\libs\libssl.txt" />
      <None Include="Assets\Wrld\3rd Party Licenses\libs\httpxx.txt" />
      <None Include="Assets\Wrld\3rd Party Licenses\fonts\OpenSans.txt" />
