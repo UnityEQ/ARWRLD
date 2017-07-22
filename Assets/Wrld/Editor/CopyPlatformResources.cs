@@ -195,7 +195,7 @@ public class CopyPlatformResources : Editor
             case RuntimePlatform.WindowsPlayer:
                 CopyResourcesWin();
                 break;
-            case RuntimePlatform.OSXDashboardPlayer:
+//            case RuntimePlatform.OSXDashboardPlayer:
             case RuntimePlatform.OSXEditor:
             case RuntimePlatform.OSXPlayer:
                 CopyResourcesOSX();
